@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryDarkOverlay">#33212121</color>
+
+
+
+    <!-- 60% – Background / Main Color -->
+    <color name="primaryBackground">#121212</color>
+
+    <!-- 30% – Secondary / Buttons -->
+    <color name="buttonColor">#009688</color>
+
+
+    <!-- 10% – Accent -->
+    <color name="accentColor">#37474F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+
+
+
+
+</resources>

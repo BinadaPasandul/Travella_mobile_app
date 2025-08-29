@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Travella</string>
+    <string name="app_logo">Travella</string>
+    <string name="tagline"> Keep your adventures alive</string>
+    <string name="onboarding_title_1">Every journey begins with a single step !!</string>
+    <string name="onboarding_title_2">Turn Miles into Memories</string>
+    <string name="onboarding_title_3">Discover Record Cherish.</string>
+
+    <string name="get_started">Kick In</string>
+    <string name="kick_In">Get Started</string>
+
+    <!--login strings eyyy !-->
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_button">Login</string>
+    <string name="forget_pw">Forgot Password?</string>
+
+
+    <!--sign up strings eyyy !-->
+    <string name="name_hint">user name</string>
+    <string name="email_hint">Email</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="sign_up_button">Sign Up</string>
+
+    <!--home page stringsss eyyyyy !-->
+    <string name="home_page">Welcome to Travella</string>
+    <string name="home_page_button_create">add+</string>
+    <string name="destination1">📍PHILIPHINES</string>
+    <string name="destination2">📍RUWANWELI MAHA SEYA</string>
+    <string name="destination3">📍NINE ARCH ARUKKU BRIDGE</string>
+    <string name="destination4">📍BALI INDONESIA</string>
+    <string name="searchbar">Search destinations..</string>
+
+
+    <!--phillipines!-->
+    <string name="philiphine_title">PHILIPPINES</string>
+    <string name="description">My amazing trip to the Philippines was full of unforgettable memories. The beaches, the culture, and the adventures made it a trip of a lifetime!</string>
+
+    <!--ruwanwelisaya !-->
+    <string name="ruwanwelisaya_title">RUWANWELISAYA</string>
+    <string name="ruwanwelisaya_description">Ruwanweli Maha Saya is one of my favourite destinations of all time. The spiritualness that comes to your mind and body when you are sitting there.</string>
+
+    <!--Add journal !-->
+    <string name="Add_journal">Add Journal</string>
+    <string name="trip_name">Enter trip name</string>
+    <string name="add_photo">Add Photos</string>
+    <string name="journal_description">Write your trip description here</string>
+    <string name="save_journal">Save Journal</string>
+    <string name="arrowleft">arrowleft</string>
+
+    <!--profile page !-->
+    <string name="profile_name">Binada Pasandul</string>
+    <string name="profile_description">Travel Enthusiast</string>
+    <string name="edit_profile">edit profile</string>
+    <string name="visited_des">your visited destinations</string>
+    <string name="totaldestinations">total destinations = 3</string>
+
+    <!--new home !-->
+    <string name="newhome_title">My memories</string>
+    <string name="newhome_tagline">Add your special memories here</string>
+    <string name="add_memory">+ Add New Memory</string>
+    <string name="recentmemo">Recent Memories</string>
+    <string name="newhomedestination1">TURTLES AT HIKKA</string>
+    <string name="newhomedestination2">NEW FRIEND AT UNAWATUNA</string>
+    <string name="newhomedestination3">SELFIE WITH A SHARK ;)</string>
+    <string name="newhomedestination4">SUNSET WELIGAMA</string>
+
+    <!--new profile !-->
+    <string name="new_prof_username">Binada Pasandul</string>
+    <string name="new_prof_tagline">Travel Enthusiast</string>
+    <string name="new_prof_edit">Edit Profile</string>
+    <string name="gg1">5\nDestinations</string>
+    <string name="gg3">40\nPosts</string>
+    <string name="gg2">4\nMemos</string>
+    <string name="your_vd">Your Visited Destinations</string>
+    <string name="npd1">📍PHILIPPINES</string>
+    <string name="npd2">📍RUWANWELI MAHA SAYA</string>
+    <string name="npd3">📍NINE ARCH BRIDGE</string>
+    <string name="npd4">📍BALI, INDOSNESIA</string>
+    <string name="npd5">📍SIGIRIYA ROCK</string>
+
+    <!--new profile !-->
+    <string name="bali_title">BALI INDONESIA</string>
+    <string name="bali_des">My amazing trip to the BALI was full of unforgettable memories. The beaches, the culture, and the adventures made it a trip of a lifetime!</string>
+
+</resources>
